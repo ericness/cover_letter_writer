@@ -2,7 +2,8 @@ import json
 import os
 import time
 
-from langchain import LLMChain, PromptTemplate
+from langchain.chains import LLMChain
+from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 
 from third_party import linkedin
@@ -25,7 +26,8 @@ if __name__ == "__main__":
     #     json.dump(result, fp)
     llm = ChatOpenAI(
         temperature=0.0,
-        model_name="gpt-3.5-turbo",
+        model_name="gpt-4",
+        #model_name="gpt-3.5-turbo-1106",
         openai_api_key=os.environ["OPENAI_API_KEY"],
         verbose=True,
     )
