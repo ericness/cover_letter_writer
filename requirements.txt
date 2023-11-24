@@ -1,1 +1,4 @@
+faiss-cpu
+proxycurl-py
 requests
+tiktoken

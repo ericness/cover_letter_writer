@@ -1,6 +1,8 @@
+import asyncio
 import os
 
 import requests
+from proxycurl_py.asyncio import Proxycurl, do_bulk
 
 
 def scrape_linkedin_profile(linkedin_profile_url: str):
@@ -25,3 +27,9 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
             group_dict.pop("profile_pic_url")
 
     return data
+
+
+def scrape_linkedin_job(url: str):
+    proxycurl = Proxycurl()
+    job = asyncio.run(proxycurl.linkedin.job.get(url=url))
+    return job

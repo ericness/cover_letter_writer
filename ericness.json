@@ -1,0 +1,672 @@
+{
+    "public_identifier": "ericnessdata",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ericnessdata/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013319Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4deeb4dadfdebdb91f4c9ab018eba7654fe75e31c8d2917b8b27d9037f39807e",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ericnessdata/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013319Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=afec2ac51fdfdc2a8669d3801f9cba47a46331d5c22dd8528d6532ef77999ed1",
+    "first_name": "Eric",
+    "last_name": "Ness",
+    "full_name": "Eric Ness",
+    "follower_count": 1554,
+    "occupation": "Principal Machine Learning Engineer at C.H. Robinson",
+    "headline": "Principal Machine Learning Engineer |  Data Science | Software Engineering | Technical Leadership | Mindful Collaboration",
+    "summary": "I enjoy building end-to-end ML projects and have experience in all stages of conceptualizing, designing, building and operating them. I've led data product projects for both SaaS companies and a Fortune 200 supply chain company. I primarily work in Python and Kubernetes and am proficient in both AWS and Azure environments.\n\n\u25c6 Designed replacement for ML system that predicts truckload costs for lanes with sparse data. Led team of data scientist and MLE to implement. Improved prediction accuracy by 50% on $50MM of quotes annually.\n\u25c6 Architected and led implementation of ML system to score customers' engagement based on behaviors across web site. Enabled account representatives to identify unhealthy accounts.\n\u25c6 Led evaluation for a company-wide MLOps platform. Wrote proposal to executive leadership that resulted in adoption of Azure ML and the creation of a five-member MLOps platform team.\n\n\ud835\udc12\ud835\udc28\ud835\udc1f\ud835\udc2d\ud835\udc30\ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc04\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc1e\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 Python (numpy, pandas, pymc3, scikit-learn, sqlalchemy, pydantic, fastapi, pytest), SQL, Git / Github / Gitlab, testing, code reviews, CI/CD\n\ud835\udc0c\ud835\udc28\ud835\udc1d\ud835\udc1e\ud835\udc25\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc00\ud835\udc27\ud835\udc1a\ud835\udc25\ud835\udc32\ud835\udc2c\ud835\udc22\ud835\udc2c Tensorflow, Keras, PyMC3, XGBoost, CatBoost, Jupyter Notebooks, Plotly, Streamlit\n\ud835\udc03\ud835\udc1a\ud835\udc2d\ud835\udc1a \ud835\udc12\ud835\udc32\ud835\udc2c\ud835\udc2d\ud835\udc1e\ud835\udc26\ud835\udc2c Apache Airflow / Astronomer, Snowflake, MongoDB, Redis, Presto, AWS Redshift, MySQL, SQL Server, AWS S3, AWS Athena\n\ud835\udc08\ud835\udc27\ud835\udc1f\ud835\udc2b\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc2b\ud835\udc2e\ud835\udc1c\ud835\udc2d\ud835\udc2e\ud835\udc2b\ud835\udc1e Docker, Kubernetes, Helm, Terraform, Vault, Jenkins, Prometheus, Elastic APM, Datadog, Grafana, Postman, AWS Lambda\n\ud835\udc02\ud835\udc25\ud835\udc28\ud835\udc2e\ud835\udc1d AWS, Azure\n\nHappy to connect with anyone in the Twin Cities to discuss data science, related fields, or professional growth.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "ends_at": null,
+            "company": "C.H. Robinson",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/c-h-robinson",
+            "title": "Principal Machine Learning Engineer",
+            "description": "* Designed and built MVP of contractual pricing model deployment framework with FastAPI and Kafka. Speeds integration of new models from weeks to days enabling faster response to market changes.\n* Created and led implementation of ML model production deployment plan using Azure ML and Airflow/Astronomer for automatic order acceptance system that handles 5k orders per day.\n* Led group of 5 lead and senior engineers to improve interview process. Developed and rolled out new set of evaluation rubrics and technical exercises.\n* Mentored 3 data scientists and 3 engineers on ML engineering and soft skills.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/c-h-robinson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93fa2b905b15d79e3e9c19a12001a0e5255aee5a6bd8232f60ba2ab4ea104a8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2022
+            },
+            "company": "C.H. Robinson",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/c-h-robinson",
+            "title": "Senior Machine Learning Engineer",
+            "description": "* Led evaluation for a company-wide MLOps platform. Wrote proposal to executive leadership that resulted in adoption of Azure ML and the creation of a five-member MLOps platform team.\n* Designed replacement for ML system that predicts truckload costs for lanes with sparse data. Led team of data scientist and MLE to implement. Improved prediction accuracy by 50% on $50MM of quotes annually.\n* Set priorities regarding feature delivery, stability, and scalability. Recommended technical strategies to balance trade-offs between business and technical priorities.\n* Migrated Python apps to Azure Kubernetes Service to increase scalability and availability.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/c-h-robinson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93fa2b905b15d79e3e9c19a12001a0e5255aee5a6bd8232f60ba2ab4ea104a8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2021
+            },
+            "company": "C.H. Robinson",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/c-h-robinson",
+            "title": "Machine Learning Engineer",
+            "description": "* Built and maintained machine learning systems using Python, Docker, and Kubernetes that quote over $750MM of shipments annually.\n* Designed and led team implementation of data cache refactor to MongoDB that increased availability and decreased response time by 15%.\n* Built container, data quality, and machine learning model real-time monitoring using Prometheus and Grafana.\n* Mentored developers on best practices for software development, data architecture, and machine learning.\n* Organized study groups and internal presentations on software architecture, testing methods, Site Reliability Engineering, and Bayesian modeling.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/c-h-robinson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93fa2b905b15d79e3e9c19a12001a0e5255aee5a6bd8232f60ba2ab4ea104a8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 11,
+                "year": 2012
+            },
+            "company": "C.H. Robinson Worldwide, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/c-h-robinson",
+            "title": "BI / Data Warehouse Developer",
+            "description": "Design and implement Enterprise Data Warehouse solutions using Microsoft SSIS, SQL Server, and Analysis Services.\n\n* Co-designed and implemented 30M fact SSAS cube to provide revenue and volume figures for enterprise-wide budgeting application. Enabled leadership team to accurately set budgets for over 300 branches.\n\n* Designed and implemented 2M fact SSAS cube for analysis of pricing strategy results.  Resolved data quality issues and challenges of multiple data sources.\n\n* Constructed invoice data mart for business line\u2019s largest customer under severe time constraints preventing default on over $8M of outstanding invoices.\n\n* Designed and implemented financial and process metric measurement data mart integrated into Enterprise Data Warehouse which allowed directors to pro-actively monitor and analyze international branch performance.\n\n* Provided technical recommendations as EDW team liaison to international customs system replacement project.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/c-h-robinson/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93fa2b905b15d79e3e9c19a12001a0e5255aee5a6bd8232f60ba2ab4ea104a8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "ends_at": {
+                "day": 29,
+                "month": 2,
+                "year": 2020
+            },
+            "company": "When I Work",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/wheniwork",
+            "title": "Senior Data Scientist",
+            "description": "* Architected and led implementation of ML system to score customers' engagement based on behaviors across web site. Enabled account representatives to identify unhealthy accounts.\n* Designed and built data pipeline that condensed 50 GB of daily web activity data into 50 MB of encoded events. Condensed format promoted deeper data analysis and feature creation from activity data.\n* Led delivery of revenue data pipeline using a custom Python framework. Increased business decision speed from a month to less than a day.\n* Built ML pipeline to categorize accounts into seasonal types and forecast their activity levels. Used spacy to perform NLP analysis to support account classification.\n* Co-built system to continuously extract all Zendesk support ticket data to data lake.\n* Provided quantitative support of findings from customer interviews as part of customer research team.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/wheniwork/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=f34a81519e0c4c4195dcea2025f3495975fd0cf61e809b061f42e9f1ed0a55bc"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2020
+            },
+            "company": "Travel Labs, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/travel-labs",
+            "title": "Machine Learning Engineer",
+            "description": "Helped business travel startup deliver an MVP of its primary product.\n\n* Built flight recommender microservice with Python on AWS Lambda. Recommendations are sourced from live GDS system and based on user preferences for airlines, times and price.",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/travel-labs/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=bed7b2a8c2573c7cb2e25f5b3b4db49637113ebc94995d67d926ce53d231032e"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2017
+            },
+            "company": "Field Nation",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/field-nation",
+            "title": "Senior Data Scientist",
+            "description": "* Built and managed team of four data professionals and several consultants. Team accomplished over 80% of quarterly goals for three consecutive quarters.\n\n* Architected and constructed data warehouse in AWS Redshift using Matillion ETL tool. Integrated data from multiple sources including platform MySQL database and Salesforce. Enabled executive team to make faster and more objective business decisions regarding sales, marketing and finance.\n\n* Established behavior-based customer segments using latent class clustering in R. Model leveraged to create company strategy for 30% annual growth.\n\n* Designed and implemented processing pipeline using Snowplow Analytics for 5M platform events per day. Pipeline included event collection, enrichment in data warehouse and visual analysis in Tableau. Resulted in ability to make objective decisions regarding product strategy.\n\n* Developed weekly revenue forecast model for company using R forecast library and Fourier series analysis. Increased confidence in annual budget by validating that forecasts were within 12% of actuals with 60 days lead time.\n\n* Analyzed text of 500K work order descriptions to find patterns in hourly pay rates using Python nltk package. Created statistical model that could predict rates by skill type and geography. Improved ability of buyers to accurately set job prices.\n\n* Built data export microservice REST API using Python Flask to enable customers to acquire their critical business data. Encouraged customers to more tightly integrate with company platform increasing retention.\n\n* Planned quarterly product strategy goals with leadership team. Resulted in prioritization of projects with highest business value to company.\n\n* Selected for ECHO leadership training program. Improved management and leadership skills through cross-department workshops.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/field-nation/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=063adc752af664803b4a6072bb34fe2002a7fde5b6ec9a192a68394b75705473"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2015
+            },
+            "company": "Superior Consulting Services",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/superior-consulting-services",
+            "title": "Senior Business Intelligence Consultant",
+            "description": "Resolve businesses' data issues using the Microsoft Business Intelligence platform.\n\n* Implemented complete lifecycle of sales forecasting project from software selection to report creation for $2B manufacturer. Improved confidence of CEO and CFO during monthly calls with Wall Street analysts.\n\n* Improved sales invoice ETL performance from 150 minutes to 20 minutes by simplifying package, improving SQL Server performance and building custom date range lookup in C#.\n\n* Enhanced C# program that loaded Excel data files to data warehouse.  Created general process able to load any data file.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/superior-consulting-services/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=34c7c96c031518ef2100f57d71f5918857134f3785a2f834ad3924badfb492fd"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2014
+            },
+            "company": "Superior Consulting Services",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/superior-consulting-services",
+            "title": "Business Intelligence Consultant",
+            "description": "Resolve businesses' data issues using the Microsoft Business Intelligence platform.\n\n* Improved performance time of client\u2019s primary ETL job by 1000% resulting in over two additional hours of data availability per day.\n\n* Installed and configured Master Data Services to assist client in capturing master data between legacy and new systems. Reduced transition time to new system.",
+            "location": "Greater Minneapolis-St. Paul Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/superior-consulting-services/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=34c7c96c031518ef2100f57d71f5918857134f3785a2f834ad3924badfb492fd"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2011
+            },
+            "company": "Minneapolis Public Schools",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/minneapolis-public-schools",
+            "title": "Data Analyst",
+            "description": "Ensure data quality and operation of district-wide data systems.\n\n* Designed and constructed data extraction system to generate state XML discipline report with 200,000 data elements. Improved ability of state to design intervention programs and prevented fine from state for non-compliance.\n\n* Modeled and constructed SQL Server database to track staff hours accounting for more than $20M in federal funding. Ensured reimbursement to district of federal funds.\n\n* Re-engineered data feed to food service system to include future enrollments.  Resulted in $50,000 in increased state funds annually.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/minneapolis-public-schools/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6743dcfc70c6c5b35978563e525aabf4bcf78952055ac55da3e5d2aab9884ed3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "company": "Minneapolis Public Schools",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/minneapolis-public-schools",
+            "title": "Systems Analyst",
+            "description": "Develop and improve mission-critical data management solutions for Special Education data.\n\n* Coordinated creation of tuition billing system responsible for $880,000 in billing revenue.\n* Redesigned student data synchronization system to reduce errors by over 90% preventing $1M government fines.\n* Gathered requirements, designed and constructed an ASP.NET / SQL Server 2005 web site for tracking and reporting student progress.\n* Increased teacher effectiveness district-wide by designing and constructing a Visual Basic 2005 program to provide individual student reports.\n* Improved director decisions by providing department statistics using the BusinessObjects XI Web Intelligence system.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/minneapolis-public-schools/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6743dcfc70c6c5b35978563e525aabf4bcf78952055ac55da3e5d2aab9884ed3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2007
+            },
+            "company": "Minneapolis Public Schools",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/minneapolis-public-schools",
+            "title": "Project Specialist",
+            "description": "Collected, organized and summarized computer network data for use by technical and administrative staff.\n\n   * Performed physical audit of computer network at over 70 sites including more than 300 network closets.\n   * Created Microsoft Access database to organize and analyze network data.\n   * Cooperated with large variety of staff members to locate and collect data.\n   * Coordinated district-wide inventory of over 1000 computers purchased with federal Title I funds.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/minneapolis-public-schools/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6743dcfc70c6c5b35978563e525aabf4bcf78952055ac55da3e5d2aab9884ed3"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2003
+            },
+            "company": "Swami Rama Computer Center",
+            "company_linkedin_profile_url": null,
+            "title": "Director",
+            "description": "Managed start-up phase of charitable technical school in rural village in India.      \n\n   * Designed and taught a six-month course in typing, DOS, Windows XP and Microsoft Office.\n   * Graduated 40 students from six-month computer course.\n   * Supervised staff of assistant teacher, grounds-keeper and librarian.\n   * Lectured in the national language of Hindi.\n   * Built and maintained all hardware and software for a LAN of 8 student computers plus a Windows 2000 server.\n   * Managed and recorded financial transactions for the computer school as well as the related sewing school and library projects.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 1998
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2000
+            },
+            "company": "Qwest",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/centurylink",
+            "title": "Network Software Engineer",
+            "description": "Contributed to creation of network management software system that monitors the status of over 2000 mission-critical Internet routers and servers.  \n\n   * Created multi-threaded Java applications to do hardware and software level queries of network devices and place the results in an Oracle database on Sun Solaris platform.\n   * Co-designed Perl CGI-driven web site to display monitoring results to network administrators.",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/centurylink/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=a644c42ed3308c22138703f43c1de17d2c0ef631c4260ca5074b7820259437d0"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1997
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 1998
+            },
+            "company": "York and Associates",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/york-&-associates",
+            "title": "Staff Consultant",
+            "description": "Acted as key team member in design and construction of re-engineered product database for Fortune 50 company (multithreaded three-tier client/server system using Sybase and C++ on back end).\n\n   * Tuned first-tier Sybase database resulting in a fifty-fold performance improvement on critical operations.\n   * Designed and constructed a data loading and synchronization system between the legacy mainframe and re-engineered databases.\n   * Performed object-oriented analysis and design of the middle tier using UML and C++.\n   * Constructed business object portions of C++ middle tier.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": null,
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 11,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1996
+            },
+            "company": "University of Minnesota",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/university-of-minnesota",
+            "title": "Systems Programmer",
+            "description": "Administrated computers in the Advanced Biosciences Computing Center including a Sun UNIX server with over 1000 faculty, staff and student accounts, 10 Sun and SGI workstations plus several PCs and Macs. Installed and maintained scientific, Internet, and system applications.\n\n   * Created and coordinated the College of Biological Sciences 3000 page web site.\n   * Provided support of critical research systems with over 99% up time.\n   * Implemented online mySQL database of lichen for the Minnesota Herbarium.\n   * Collected data for network database.\n   * Assisted faculty and graduate student users in the use of computer systems.\n            \n\n    \n    \n\n    \n        Show less",
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/university-of-minnesota/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230712%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230712T013323Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=6cc72d673f5e25d56b9e8f8efe83bcef327c8ce33cf6773d8e89f46c6d6d1a61"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2015
+            },
+            "field_of_study": "Predictive Analytics",
+            "degree_name": "Master of Science (M.S.)",
+            "school": "Northwestern University",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/northwestern-university/",
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH-sXOOSUF3aA/company-logo_100_100/0/1519856314413?e=2147483647&v=beta&t=MQxdYXh7z4diiFeVS3v1vqq3L46ohl_WjsmNmH4MOcg",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1994
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1998
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "M.S.",
+            "school": "University of Minnesota",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-minnesota/",
+            "description": "Classes in:  advanced operating systems, high-speed networks, database systems, compilers, computer architecture, graphics programming, computational theory",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGlBdzk6m5lIA/company-logo_100_100/0/1657209253296?e=2147483647&v=beta&t=TNBTUmm6Uh-Z7Y6yDRIyVj7Dg0_EitRLmb2uMkDIDdc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1994
+            },
+            "field_of_study": "Physics",
+            "degree_name": "B.A.",
+            "school": "University of California, Berkeley",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/uc-berkeley/",
+            "description": "Classes in:  astrophysics, calculus, linear algebra, scientific research methodology, German, French, philosophy",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGF8uB7vUoJ0Q/company-logo_100_100/0/1639585476982?e=2147483647&v=beta&t=rfHOAXfkT-k1jEYfdPbQcM4JDifJPIMkBYEvzChXBlY",
+            "grade": null,
+            "activities_and_societies": "UC Jazz Band"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "field_of_study": "Data Warehousing and Data Mining",
+            "degree_name": null,
+            "school": "University of Minnesota-Twin Cities",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-minnesota/",
+            "description": "Learned Kimball Data Warehouse Lifecycle, Dimensional Modeling, ETL, Data Mining techniques and In-Memory Data Analysis.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGlBdzk6m5lIA/company-logo_100_100/0/1657209253296?e=2147483647&v=beta&t=TNBTUmm6Uh-Z7Y6yDRIyVj7Dg0_EitRLmb2uMkDIDdc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2010
+            },
+            "field_of_study": "Advanced Data Modeling",
+            "degree_name": null,
+            "school": "University of Minnesota",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-minnesota/",
+            "description": "Advanced Data Modeling class covered Entity-Relationship Modeling, normalization and Object-Role Modeling.",
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGlBdzk6m5lIA/company-logo_100_100/0/1657209253296?e=2147483647&v=beta&t=TNBTUmm6Uh-Z7Y6yDRIyVj7Dg0_EitRLmb2uMkDIDdc",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2009
+            },
+            "field_of_study": "SQL Server 2008 Administration",
+            "degree_name": null,
+            "school": "Minneapolis College",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/minneapolis-college/",
+            "description": "Class covered backing up and restoring databases, user security, installation, database and database object creation and database mirroring.",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQGqAHPSir0TaA/company-logo_100_100/0/1684769984012?e=2147483647&v=beta&t=zGPdmFzmwzntysNHyhtqWTTwwnFbhr7kfrUJIY9qLb0",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1986
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 1990
+            },
+            "field_of_study": null,
+            "degree_name": "High School Degree",
+            "school": "St. Anthony High School",
+            "school_linkedin_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "Data Warehousing the Easy Way with AWS Redshift (Presentation)",
+            "publisher": "Big Data Tech Conference (Minneanalytics)",
+            "published_on": {
+                "day": 7,
+                "month": 6,
+                "year": 2016
+            },
+            "description": "Data warehouses have commonly been built on relational databases which are optimized for transactional work loads. The performance and storage limitations of these systems required special data models such as star schemas. The latest wave of column-based data stores such as AWS Redshift are optimized for analytical work loads and no longer require these compromises to perform. Redshift also has an extensive group of partners which provide solutions to ease the loading, transformation and visualization of the source data.\nThis presentation examined a case study of how Field Nation built a data warehouse and financial dashboards in three months using Redshift. We looked at the tools in the data pipeline from data extraction to delivery. By the end of the presentation attendees had a new understanding of how to turn both in-house and SaaS provider data into a coherent whole for their users.\n            \n\n    \n    \n\n    \n        Show less",
+            "url": "https://bigdatatechday2016.sched.com/event/7A3r/data-warehousing-the-easy-way-with-aws-redshift"
+        },
+        {
+            "name": "The caret Package (Presentation)",
+            "publisher": "Twin Cities R User Group Meeting",
+            "published_on": {
+                "day": 23,
+                "month": 4,
+                "year": 2015
+            },
+            "description": "The caret library in R provides tools to automate predictive model creation. This presentation gave an overview of the library's features and use.",
+            "url": null
+        },
+        {
+            "name": "Forecasting: Methods and Benefits (Presentation)",
+            "publisher": "MindSurf Conference",
+            "published_on": {
+                "day": 9,
+                "month": 10,
+                "year": 2014
+            },
+            "description": "Forecasting techniques gives business analysts a peek behind the scenes of what will happen to the business in the future. Forecasting can be used with any quantitative amount that fluctuates over time, such as revenue or costs. Recently, software vendors have released tools that hide the complexity of the techniques behind automatic tests and a graphical interface. This session will discuss the methods and benefits of forecasting as well as an overview of available software.",
+            "url": null
+        },
+        {
+            "name": "Poisson and Negative Binomial Regression Models - An Overview (Presentation)",
+            "publisher": "MN SAS User Group Meeting",
+            "published_on": {
+                "day": 8,
+                "month": 5,
+                "year": 2014
+            },
+            "description": "This presentation gave an overview of how to use Poisson and Negative Binomial Regression models to model count data. These models fit the natural distribution of count data better than Ordinary Least Squares models. Count data has many applications including estimating ER visits and accident rates.",
+            "url": null
+        },
+        {
+            "name": "Data Mining Deep Dive: Clustering (Presentation)",
+            "publisher": "SQL Saturday Minnesota",
+            "published_on": {
+                "day": 12,
+                "month": 10,
+                "year": 2013
+            },
+            "description": "Microsoft SQL Server makes it simple to apply data mining algorithms to a wide variety of data.  Applying the results to business decisions without a thorough understanding of how the algorithms work is dangerous to the bottom line of the business, though.  This session will take one of the algorithms, the Microsoft Clustering Algorithm, and do a deep dive into the mechanics of how it works.  The algorithm is valuable for analyzing data in the fields of marketing, social networks and many others.  The session will also examine the types of data that are valid for clustering.  A demonstration of building a clustering model using SQL Server Analysis Services and viewing the model using the Excel Data Mining Add-In will be given.\n            \n\n    \n    \n\n    \n        Show less",
+            "url": null
+        },
+        {
+            "name": "Data Mining Deep Dive: Clustering (Presentation)",
+            "publisher": "SQL Saturday Fargo",
+            "published_on": {
+                "day": 30,
+                "month": 4,
+                "year": 2013
+            },
+            "description": "See above.",
+            "url": null
+        },
+        {
+            "name": "Prototyping Dimensional Data Models with PowerPivot (Presentation)",
+            "publisher": "SQL Saturday East Iowa",
+            "published_on": {
+                "day": 11,
+                "month": 8,
+                "year": 2012
+            },
+            "description": "Data modeling is often an abstract exercise involving talk and diagrams, but little hands-on experimentation. Business intelligence solutions are built from source systems which have an abundance of data so there\u2019s no longer a reason to treat data modeling as an academic exercise. This session will cover how to use PowerPivot for Excel to quickly create prototypes of different dimensional models to try out and discard as necessary. The features of PowerPivot which allow quick import of data from a variety of data sources will also be demonstrated.\n            \n\n    \n    \n\n    \n        Show less",
+            "url": null
+        },
+        {
+            "name": "Modeling Tools for the Non-Relational World (Presentation)",
+            "publisher": "Enterprise Data World Conference 2012",
+            "published_on": {
+                "day": 2,
+                "month": 5,
+                "year": 2012
+            },
+            "description": "The proliferation of non-relational (NoSQL) database management systems presents a challenge to data modelers using traditional Entity-Relationship models. ER models cannot be directly transformed into document data models (like XML and JSON) since they include assumptions about the physical storage of the data.\nConceptual data models built using the Object Role Modeling methodology represent the real world directly with no consideration of how data will be stored. ORM models can be transformed to any number of physical data structures.\nThis presentation will take a small ORM data model from the transportation logistics domain and demonstrate how it can be transformed into physical data models for both a relational database and a document (XML/JSON) database.\n\n            \n\n    \n    \n\n    \n        Show less",
+            "url": null
+        },
+        {
+            "name": "Modeling Tools for the Non-Relational World (Presentation)",
+            "publisher": "DAMA-MN Meeting",
+            "published_on": {
+                "day": 1,
+                "month": 4,
+                "year": 2012
+            },
+            "description": "See above.",
+            "url": null
+        }
+    ],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2013
+            },
+            "title": "Education Officer",
+            "cause": "Education",
+            "company": "Data Management Association - Minnesota (DAMA-MN)",
+            "company_linkedin_profile_url": null,
+            "description": "Arrange for speakers to present at monthly meetings.  Greet speakers at meetings and ensure that they had all required resources.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2011
+            },
+            "title": "Facilities Officer",
+            "cause": "Education",
+            "company": "Data Management Association - Minnesota (DAMA-MN)",
+            "company_linkedin_profile_url": null,
+            "description": "Arrange for corporate hosts for monthly meetings.  Ensure that webinar system and food was set up at meeting location.  Greet all guests and orient them to meeting.",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2009
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2012
+            },
+            "title": "Treasurer",
+            "cause": null,
+            "company": "The Meditation Center",
+            "company_linkedin_profile_url": null,
+            "description": "Manage the accounting functions for the organization.  Create an annual budget to present to board of directors for approval.  Coordinate with other board members and volunteers on financial matters.  Print and sign checks.  Create annual financial brief.",
+            "logo_url": null
+        }
+    ],
+    "connections": 500,
+    "recommendations": [
+        "Nicholas Yost\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          I had the pleasure of working with Eric for a number of years at Field Nation. When he joined, we had a very limited Data capacity, but the need for Data was high. He was able to rapidly expand the Data offering we had for internal staff as well as work closely with the Product Team to advise us on our offerings. Eric is a very strong Data Scientist and would be an asset to any organization that needs not only a Data Scientist but someone that understands the business objectives tied to the Data he helps compile.",
+        "Todd Sobiech\n\n      \n          \n          \n\n\n\n              \n                \n        \n              \n  \n\n      \n          I had the opportunity of meeting Eric and working with him on Data Science projects when we both attended Northwestern University. Eric is a person who has great skills and profound expertise of modern business solutions.  He has an excellent balance of database and SQL programming skills to go along with an extensive analytics and data science background. Eric provided outstanding results for our project team.  He proved to be a great person to work with. His skills in leadership allowed him to see solutions instead of problems. Eric is extremely enthusiastic about his work which is infectious.  Absolutely someone I'd want to have on my team."
+    ],
+    "activities": [
+        {
+            "title": "This is HUGE! \ud83d\udcc8Hopper \u00d7 Uber \ud83d\ude80Please read below for more details about this promising partnership \ud83e\udd1d",
+            "link": "https://www.linkedin.com/posts/kamileladas_uber-takes-to-the-skies-with-flight-bookings-activity-7062144516262113280-ljoq",
+            "activity_status": "Liked by Eric Ness"
+        },
+        {
+            "title": "In celebration of my 2-year anniversary at The Hatch Group, I wanted to gift everyone with some new opportunities! You get an opportunity, you get an\u2026",
+            "link": "https://www.linkedin.com/posts/kimberlycarlberg_in-celebration-of-my-2-year-anniversary-at-activity-7064936254248779777-vp52",
+            "activity_status": "Liked by Eric Ness"
+        },
+        {
+            "title": "Don't piss away $100k!If you're a startup and just raised a seed or series A round and need to hire an outside firm to do some mobile or SaaS\u2026",
+            "link": "https://www.linkedin.com/posts/learncasey_dont-piss-away-100k-if-youre-a-startup-activity-7064222977017483264-OJdc",
+            "activity_status": "Liked by Eric Ness"
+        },
+        {
+            "title": "Renewed for another year;) #PowerBI Data Analyst Associate \ud83c\udf89 \ud83c\udfc5 \ud83d\udcca Love the Microsoft certification renewal process!",
+            "link": "https://www.linkedin.com/posts/denglishbi_powerbi-activity-7061789432726638592-mYih",
+            "activity_status": "Liked by Eric Ness"
+        },
+        {
+            "title": "POV: you\u2019re 26 years old, working 80 hours per week, and $65,000 in credit card debt.This is the story of how a little piece of paper changed my\u2026",
+            "link": "https://www.linkedin.com/posts/patrickwalls_pov-youre-26-years-old-working-80-hours-activity-7059550672643342336-T_eP",
+            "activity_status": "Liked by Eric Ness"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Eric Ness",
+            "link": "https://si.linkedin.com/in/eric-ness-82b81298",
+            "summary": "Dual threat - have education and experience in both International Studies and as a Computer Scientist.",
+            "location": "Slovenia"
+        },
+        {
+            "name": "Eric Ness",
+            "link": "https://se.linkedin.com/in/eric-ness-2244382",
+            "summary": "Technical Sales & Project Manager",
+            "location": "Greater Stockholm Metropolitan Area"
+        },
+        {
+            "name": "Eric Ness",
+            "link": "https://www.linkedin.com/in/eric-ness-64192351",
+            "summary": "Senior Director, Finance at Dover Fueling Solutions",
+            "location": "Austin, TX"
+        },
+        {
+            "name": "Eric Ness",
+            "link": "https://www.linkedin.com/in/eric-ness-42312311",
+            "summary": "Technical Program Manager at Google Site Reliability Engineering (SRE)",
+            "location": "Bellevue, WA"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Graduation",
+            "link": "https://www.linkedin.com/pulse/graduation-eric-ness",
+            "published_date": {
+                "day": 6,
+                "month": 1,
+                "year": 2015
+            },
+            "author": "By Eric Ness",
+            "image_url": "https://media.licdn.com/dms/image/C5112AQH3QCMdawpgmw/article-cover_image-shrink_180_320/0/1520100876108?e=2147483647&v=beta&t=5csp3rWPLV-eYpUecwHkaAM27Tm_YQg964YbsQS2Xts"
+        }
+    ]
+}
