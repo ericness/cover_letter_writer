@@ -1,14 +1,11 @@
 import json
 import os
-import pprint
-import time
 
-from langchain import LLMChain, PromptTemplate
-from langchain.agents import AgentType, Tool, initialize_agent
-from langchain.chains import RetrievalQA
+from langchain.chains import LLMChain, RetrievalQA
 from langchain.chat_models import ChatOpenAI
 from langchain.docstore.document import Document
 from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.prompts import PromptTemplate
 from langchain.vectorstores import FAISS
 
 from third_party import linkedin
@@ -77,7 +74,8 @@ if __name__ == "__main__":
     #     json.dump(result, fp)
     llm = ChatOpenAI(
         temperature=0.0,
-        model_name="gpt-3.5-turbo",
+        model_name="gpt-4",
+        # model_name="gpt-3.5-turbo-1106",
         openai_api_key=os.environ["OPENAI_API_KEY"],
         verbose=True,
     )

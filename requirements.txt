@@ -1,4 +1,6 @@
 faiss-cpu
+langchain
+openai
 proxycurl-py
 requests
 tiktoken
